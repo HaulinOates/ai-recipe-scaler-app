@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Classic Pancakes",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tablespoons sugar",
+      "1 tablespoon baking powder",
+      "1/2 teaspoon salt",
+      "1 egg",
+      "3/4 cup milk",
+      "2 tablespoons melted butter"
+    ],
+    "instructions": "In a large bowl, mix the flour, sugar, baking powder, and salt. In another bowl, beat the egg with the milk and melted butter. Pour the wet mixture into the dry and stir until just combined. Heat a skillet over medium heat and pour 1/4 cup of batter for each pancake. Cook until bubbles form and edges are dry, then flip and cook the other side until golden brown."
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "category": "Dinner",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (28 oz) crushed tomatoes",
+      "2 tablespoons tomato paste",
+      "1 teaspoon dried oregano",
+      "Salt and pepper to taste",
+      "Spaghetti pasta, cooked"
+    ],
+    "instructions": "In a large skillet over medium heat, cook ground beef until browned. Add chopped onion and garlic; cook until softened. Stir in crushed tomatoes, tomato paste, and oregano. Simmer for 20 minutes. Season with salt and pepper. Serve over cooked spaghetti."
+  },
+  {
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 slices of bread, toasted",
+      "1 ripe avocado",
+      "Salt and pepper to taste",
+      "Red pepper flakes (optional)"
+    ],
+    "instructions": "Mash the avocado in a bowl. Spread on toasted bread. Sprinkle with salt, pepper, and red pepper flakes if desired."
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "category": "Lunch",
+    "ingredients": [
+      "2 grilled chicken breasts, sliced",
+      "1 head romaine lettuce, chopped",
+      "1/2 cup Caesar dressing",
+      "1/4 cup grated Parmesan cheese",
+      "1 cup croutons"
+    ],
+    "instructions": "In a large bowl, toss lettuce with Caesar dressing. Top with grilled chicken, Parmesan, and croutons."
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "category": "Lunch",
+    "ingredients": [
+      "2 slices of bread",
+      "2 slices of cheese",
+      "1 tablespoon butter"
+    ],
+    "instructions": "Butter one side of each slice of bread. Place cheese between the unbuttered sides. Cook in a skillet over medium heat until golden on both sides and cheese is melted."
+  },
+  {
+    "name": "Roast Chicken",
+    "category": "Dinner",
+    "ingredients": [
+      "1 whole chicken (about 4 pounds)",
+      "2 tablespoons olive oil",
+      "1 tablespoon salt",
+      "1 teaspoon pepper",
+      "1 teaspoon dried thyme"
+    ],
+    "instructions": "Preheat oven to 425\u00b0F (220\u00b0C). Rub chicken with olive oil, salt, pepper, and thyme. Roast for 1 hour 20 minutes or until internal temperature reaches 165\u00b0F (74\u00b0C)."
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup butter, softened",
+      "1 cup white sugar",
+      "1 cup brown sugar",
+      "2 eggs",
+      "2 teaspoons vanilla extract",
+      "3 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "2 cups chocolate chips"
+    ],
+    "instructions": "Preheat oven to 350\u00b0F (175\u00b0C). Cream butter and sugars. Beat in eggs and vanilla. Mix in flour and baking soda. Stir in chocolate chips. Drop by spoonfuls onto baking sheet. Bake 10-12 minutes."
+  },
+  {
+    "name": "Lemon Bars",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup butter, softened",
+      "1/2 cup powdered sugar",
+      "2 cups all-purpose flour",
+      "4 eggs",
+      "1 1/2 cups white sugar",
+      "1/4 cup lemon juice",
+      "1/4 cup all-purpose flour",
+      "Powdered sugar for dusting"
+    ],
+    "instructions": "Preheat oven to 350\u00b0F (175\u00b0C). Mix butter, powdered sugar, and 2 cups flour. Press into a 9x13 pan and bake 20 minutes. Mix remaining ingredients and pour over crust. Bake 20 more minutes. Cool and dust with powdered sugar."
+  }
+]
