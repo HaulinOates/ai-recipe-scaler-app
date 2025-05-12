@@ -3,9 +3,6 @@ import './App.css';
 import recipeData from './data/allrecipes_sample.json';
 import axios from 'axios';
 
-
-import axios from 'axios';
-
 async function scaleWithAI(recipeText, vesselType) {
   const prompt = `Adjust this recipe for a ${vesselType}. Provide updated ingredient quantities and cooking instructions:\n\n${recipeText}`;
 
